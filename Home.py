@@ -10,7 +10,7 @@ with col1:
 
 with col2:
     st.title("Shourya Chandel")
-    content = """
+    content = "
     Hi, I am Shourya! I am a Python programmer, I am currently in my final year of graduation.
     I am well versed in following technical skills 
     SQL 
@@ -18,7 +18,7 @@ with col2:
     PANDAS
     LLMs
     OPENai APIs
-    """
+    "
     st.info(content)
 
 content2 = """
