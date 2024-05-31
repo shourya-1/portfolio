@@ -10,15 +10,15 @@ with col1:
 
 with col2:
     st.title("Shourya Chandel")
-    content = ""
-    Hi, I am Shourya! I am a Python programmer, I am currently in my final year of graduation.
-    I am well versed in following technical skills 
-    SQL 
-    EXCEL
-    PANDAS
-    LLMs
-    OPENai APIs
-    ""
+    content =
+    'Hi, I am Shourya! I am a Python programmer, I am currently in my final year of graduation.'
+    'I am well versed in following technical skills '
+    'SQL '
+    'EXCEL'
+    'PANDAS'
+    'LLM's
+    'OPENai APIs'
+   
     st.info(content)
 
 content2 = """
