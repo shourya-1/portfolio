@@ -33,7 +33,7 @@ with col3:
         st.header(row["title"])
         st.write(row["description"])
         st.image("images/" + row["image"])
-        st.write(f"[Source Code]({row['url']})")
+        st.write(f"[Source Code]({row['']})")
 
 
 with col4:
@@ -41,4 +41,4 @@ with col4:
         st.header(row["title"])
         st.write(row["description"])
         st.image("images/" + row["image"])
-        st.write(f"[Source Code]({row['url']})")
+        st.write(f"[Source Code]({row['']})")
